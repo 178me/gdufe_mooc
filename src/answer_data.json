@@ -1,0 +1,1293 @@
+[
+    {
+        "title": "1.1.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "A"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "A"
+            },
+            {
+                "index": 3,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "index": 4,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "D"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "1.2.4随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "D"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "C"
+            },
+            {
+                "index": 3,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "1.3.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "C"
+            },
+            {
+                "index": 3,
+                "type": 2,
+                "answer": [
+                    "导航菜单",
+                    "幻灯片",
+                    "产品介绍",
+                    "关于suncom",
+                    "公告",
+                    "LOGO",
+                    "滚动内容",
+                    "解决方案介绍",
+                    "搜索入口",
+                    "版权"
+                ]
+            },
+            {
+                "index": 4,
+                "type": 3,
+                "answer": "T"
+            },
+            {
+                "index": 5,
+                "type": 3,
+                "answer": "T"
+            }
+        ]
+    },
+    {
+        "title": "1.4.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "D"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "A"
+            },
+            {
+                "index": 3,
+                "type": 2,
+                "answer": [
+                    "横向",
+                    "纵向"
+                ]
+            },
+            {
+                "index": 4,
+                "type": 2,
+                "answer": [
+                    "导航",
+                    "导航菜单"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "1.5.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "index": 2,
+                "type": 2,
+                "answer": [
+                    "网页中除去顶部和底部内容的其他内容"
+                ]
+            },
+            {
+                "index": 3,
+                "type": 2,
+                "answer": [
+                    "幻灯片",
+                    "滚动内容",
+                    "图文"
+                ]
+            },
+            {
+                "index": 4,
+                "type": 3,
+                "answer": "F"
+            }
+        ]
+    },
+    {
+        "title": "2.1.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "A"
+            },
+            {
+                "index": 3,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "index": 4,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "2.2.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "index": 2,
+                "type": 2,
+                "answer": [
+                    "用户使用系统的身份;角色",
+                    "用户可访问资源;功能"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "2.3.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 3,
+                "answer": "F"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 3,
+                "type": 0,
+                "answer": "A"
+            },
+            {
+                "index": 4,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 5,
+                "type": 2,
+                "answer": [
+                    "名称",
+                    "权重"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "2.4.4随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "A"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "D"
+            },
+            {
+                "index": 3,
+                "type": 0,
+                "answer": "B"
+            }
+        ]
+    },
+    {
+        "title": "3.1.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "D"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "C"
+            },
+            {
+                "index": 3,
+                "type": 3,
+                "answer": "T"
+            },
+            {
+                "index": 4,
+                "type": 3,
+                "answer": "F"
+            }
+        ]
+    },
+    {
+        "title": "3.2.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "C"
+            },
+            {
+                "index": 3,
+                "type": 2,
+                "answer": [
+                    "GET",
+                    "POST"
+                ]
+            },
+            {
+                "index": 4,
+                "type": 3,
+                "answer": "T"
+            },
+            {
+                "index": 5,
+                "type": 3,
+                "answer": "T"
+            }
+        ]
+    },
+    {
+        "title": "3.3.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "index": 2,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "index": 3,
+                "type": 3,
+                "answer": "T"
+            },
+            {
+                "index": 4,
+                "type": 3,
+                "answer": "F"
+            }
+        ]
+    },
+    {
+        "title": "3.4.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "C"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 3,
+                "type": 0,
+                "answer": "D"
+            },
+            {
+                "index": 4,
+                "type": 0,
+                "answer": "A"
+            },
+            {
+                "index": 5,
+                "type": 3,
+                "answer": "T"
+            }
+        ]
+    },
+    {
+        "title": "3.5.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "A"
+            },
+            {
+                "index": 2,
+                "type": 3,
+                "answer": "F"
+            }
+        ]
+    },
+    {
+        "title": "4.1.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 2,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "index": 3,
+                "type": 2,
+                "answer": [
+                    "一",
+                    "列表查询",
+                    "添加用户",
+                    "编辑用户资料",
+                    "删除用户资料",
+                    "失效用户（不删除）"
+                ]
+            },
+            {
+                "index": 4,
+                "type": 3,
+                "answer": "F"
+            }
+        ]
+    },
+    {
+        "title": "4.2.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "C"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "D"
+            },
+            {
+                "index": 3,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 4,
+                "type": 2,
+                "answer": [
+                    "多",
+                    "菜单的名称",
+                    "菜单的内容"
+                ]
+            },
+            {
+                "index": 5,
+                "type": 3,
+                "answer": "T"
+            },
+            {
+                "index": 6,
+                "type": 3,
+                "answer": "T"
+            },
+            {
+                "index": 7,
+                "type": 3,
+                "answer": "T"
+            }
+        ]
+    },
+    {
+        "title": "4.3.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "D"
+            },
+            {
+                "index": 2,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "index": 3,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "index": 4,
+                "type": 2,
+                "answer": [
+                    "文章 作业 ",
+                    "添加",
+                    "编辑",
+                    "排序"
+                ]
+            },
+            {
+                "index": 5,
+                "type": 2,
+                "answer": [
+                    "在线文本"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "4.4.3随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 2,
+                "answer": [
+                    "版权",
+                    "LOGO",
+                    "备案号"
+                ]
+            },
+            {
+                "index": 2,
+                "type": 3,
+                "answer": "F"
+            },
+            {
+                "index": 3,
+                "type": 3,
+                "answer": "T"
+            },
+            {
+                "index": 4,
+                "type": 3,
+                "answer": "T"
+            }
+        ]
+    },
+    {
+        "title": "4.6随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 2,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "index": 3,
+                "type": 2,
+                "answer": [
+                    "1",
+                    "列表查询",
+                    "添加用户",
+                    "编辑用户资料",
+                    "删除用户资料",
+                    "失效用户（不删除）"
+                ]
+            },
+            {
+                "index": 4,
+                "type": 3,
+                "answer": "F"
+            }
+        ]
+    },
+    {
+        "title": "5.1.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 2,
+                "answer": [
+                    "NetBeans"
+                ]
+            },
+            {
+                "index": 2,
+                "type": 3,
+                "answer": "T"
+            }
+        ]
+    },
+    {
+        "title": "5.3.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 2,
+                "answer": [
+                    "@Entity"
+                ]
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "B"
+            }
+        ]
+    },
+    {
+        "title": "5.4.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "A"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "D"
+            },
+            {
+                "index": 3,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 4,
+                "type": 0,
+                "answer": "D"
+            },
+            {
+                "index": 5,
+                "type": 0,
+                "answer": "A"
+            }
+        ]
+    },
+    {
+        "title": "5.5.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "D"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "A"
+            },
+            {
+                "index": 3,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "6.1.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "C"
+            },
+            {
+                "index": 3,
+                "type": 0,
+                "answer": "B"
+            }
+        ]
+    },
+    {
+        "title": "6.2.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 3,
+                "type": 0,
+                "answer": "B"
+            }
+        ]
+    },
+    {
+        "title": "7.1.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "C"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "D"
+            },
+            {
+                "index": 3,
+                "type": 0,
+                "answer": "B"
+            }
+        ]
+    },
+    {
+        "title": "8.4.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B"
+                ]
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "C"
+            }
+        ]
+    },
+    {
+        "title": "9.1.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "A"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "D"
+            },
+            {
+                "index": 3,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 4,
+                "type": 1,
+                "answer": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "index": 5,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "9.2.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "D"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "C"
+            },
+            {
+                "index": 3,
+                "type": 0,
+                "answer": "D"
+            }
+        ]
+    },
+    {
+        "title": "9.3.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 2,
+                "answer": [
+                    "网站后台使用者的操作中心;展示后台导航和操作界面"
+                ]
+            },
+            {
+                "index": 2,
+                "type": 3,
+                "answer": "F"
+            },
+            {
+                "index": 3,
+                "type": 3,
+                "answer": "F"
+            },
+            {
+                "index": 4,
+                "type": 3,
+                "answer": "T"
+            },
+            {
+                "index": 5,
+                "type": 3,
+                "answer": "T"
+            },
+            {
+                "index": 6,
+                "type": 3,
+                "answer": "F"
+            }
+        ]
+    },
+    {
+        "title": "9.4.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "D"
+            },
+            {
+                "index": 3,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "D"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "10.4.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "D"
+            }
+        ]
+    },
+    {
+        "title": "14.2.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "index": 2,
+                "type": 0,
+                "answer": "C"
+            }
+        ]
+    },
+    {
+        "title": "14.4.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "B"
+            }
+        ]
+    },
+    {
+        "title": "16.4.2随堂测试",
+        "data": [
+            {
+                "index": 1,
+                "type": 0,
+                "answer": "B"
+            },
+            {
+                "index": 2,
+                "type": 1,
+                "answer": [
+                    "A",
+                    "D"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "第一章 作业 ",
+        "data": [
+            {
+                "index": "1",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "2",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "3",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "4",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "5",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "6",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "7",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "8",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "9",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "10",
+                "type": "0",
+                "answer": "D"
+            }
+        ]
+    },
+    {
+        "title": "第二章 作业 ",
+        "data": [
+            {
+                "index": "1",
+                "type": "0",
+                "answer": "D"
+            },
+            {
+                "index": "2",
+                "type": "0",
+                "answer": "B"
+            },
+            {
+                "index": "3",
+                "type": "0",
+                "answer": "B"
+            },
+            {
+                "index": "4",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "5",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "6",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "7",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "8",
+                "type": "0",
+                "answer": "D"
+            },
+            {
+                "index": "9",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "10",
+                "type": "0",
+                "answer": "C"
+            }
+        ]
+    },
+    {
+        "title": "第三章 作业 ",
+        "data": [
+            {
+                "index": "1",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "2",
+                "type": "0",
+                "answer": "B"
+            },
+            {
+                "index": "3",
+                "type": "0",
+                "answer": "D"
+            },
+            {
+                "index": "4",
+                "type": "0",
+                "answer": "B"
+            },
+            {
+                "index": "5",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "6",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "7",
+                "type": "0",
+                "answer": "D"
+            },
+            {
+                "index": "8",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "9",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "10",
+                "type": "0",
+                "answer": "D"
+            }
+        ]
+    },
+    {
+        "title": "第四章 作业 ",
+        "data": [
+            {
+                "index": "1",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "2",
+                "type": "0",
+                "answer": "D"
+            },
+            {
+                "index": "3",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "4",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "5",
+                "type": "0",
+                "answer": "D"
+            },
+            {
+                "index": "6",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "7",
+                "type": "0",
+                "answer": "B"
+            },
+            {
+                "index": "8",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "9",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "10",
+                "type": "0",
+                "answer": "B"
+            }
+        ]
+    },
+    {
+        "title": "第五-六章 作业 ",
+        "data": [
+            {
+                "index": "1",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "2",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "3",
+                "type": "0",
+                "answer": "B"
+            },
+            {
+                "index": "4",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "5",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "6",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "7",
+                "type": "0",
+                "answer": "D"
+            },
+            {
+                "index": "8",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "9",
+                "type": "0",
+                "answer": "D"
+            },
+            {
+                "index": "10",
+                "type": "0",
+                "answer": "A"
+            }
+        ]
+    },
+    {
+        "title": "第七章 作业 ",
+        "data": [
+            {
+                "index": "1",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "2",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "3",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "4",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "5",
+                "type": "0",
+                "answer": "B"
+            },
+            {
+                "index": "6",
+                "type": "0",
+                "answer": "D"
+            },
+            {
+                "index": "7",
+                "type": "0",
+                "answer": "B"
+            },
+            {
+                "index": "8",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "9",
+                "type": "0",
+                "answer": "C"
+            },
+            {
+                "index": "10",
+                "type": "0",
+                "answer": "B"
+            }
+        ]
+    },
+    {
+        "title": "5.6环境搭建问题 ",
+        "data": [
+            {
+                "index": "1",
+                "type": "0",
+                "answer": "A"
+            },
+            {
+                "index": "2",
+                "type": "0",
+                "answer": "D"
+            }
+        ]
+    }
+]

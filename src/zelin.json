@@ -1,0 +1,30 @@
+[
+    {
+        "name": "csrftoken",
+        "value": "6ne76WIWFkFrG0JQMxcvkbTczz38SZU7"
+    },
+    {
+        "name": "dep",
+        "value": "33060"
+    },
+    {
+        "name": "django_language",
+        "value": "zh-cn"
+    },
+    {
+        "name": "platform_id",
+        "value": "3"
+    },
+    {
+        "name": "sessionid",
+        "value": "sxfevx1ywzog7efl32bj481uibra30l5"
+    },
+    {
+        "name": "university_id",
+        "value": "2730"
+    },
+    {
+        "name": "user_role",
+        "value": "3"
+    }
+]
