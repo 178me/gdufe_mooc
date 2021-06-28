@@ -384,7 +384,7 @@ class BrowserLib:
                     break
             return element_list
         except:
-            print("获取元素出错:", error)
+            print("获取元素出错:")
             if self.debug_mode:
                 traceback.print_exc()
 
@@ -546,7 +546,7 @@ def main_process():
     i = 0
     # 流程开始
     gdufe_mooc.into_main_page()
-    gdufe_mooc.login("src/zhekai.json")
+    gdufe_mooc.login("src/chang.json")
     while i < len(course_list):
         gdufe_mooc.into_course(course_list[i])
         current_window = browser_lib.current_window_handle()
