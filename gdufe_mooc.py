@@ -17,7 +17,7 @@ logging.basicConfig(level=logging.INFO,
 class GdufeMooc:
     ''' 广财慕课 '''
 
-    def __init__(self, browser_lib, watch_time=10*60, max_video_number=5):
+    def __init__(self, browser_lib, watch_time=10*60, max_video_number=3):
         self.browser_lib = browser_lib
         self.watch_time = watch_time
         self.max_video_number = max_video_number
