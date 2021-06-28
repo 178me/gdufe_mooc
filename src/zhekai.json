@@ -1,0 +1,34 @@
+[
+    {
+        "name": "csrftoken",
+        "value": "WeQLNBMeQ4lcJEb6WqiAIjFGI8eaR6i7"
+    },
+    {
+        "name": "dep",
+        "value": "33060"
+    },
+    {
+        "name": "django_language",
+        "value": "zh-cn"
+    },
+    {
+        "name": "JG_d651262356d93f6497b466bc1_PV",
+        "value": "1624451626069|1624451628316"
+    },
+    {
+        "name": "platform_id",
+        "value": "3"
+    },
+    {
+        "name": "sessionid",
+        "value": "9w8638pzk7whg1c0zplc1oz6rfwfxvt3"
+    },
+    {
+        "name": "university_id",
+        "value": "2730"
+    },
+    {
+        "name": "user_role",
+        "value": "3"
+    }
+]

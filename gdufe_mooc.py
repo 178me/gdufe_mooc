@@ -13,10 +13,11 @@ import pyautogui
 logging.basicConfig(level=logging.INFO,
                     format='[%(asctime)s-%(levelname)s]: %(message)s', datefmt="%H:%M:%S")
 
+
 class GdufeMooc:
     ''' 广财慕课 '''
 
-    def __init__(self, browser_lib, watch_time=15*60, max_video_number=3):
+    def __init__(self, browser_lib, watch_time=10*60, max_video_number=5):
         self.browser_lib = browser_lib
         self.watch_time = watch_time
         self.max_video_number = max_video_number
@@ -61,7 +62,7 @@ class GdufeMooc:
         #  <span data-v-3d9c166b="" class="text text-ellipsis">1.1.1课程介绍</span>
         task_title = self.browser_lib.get_element(
             #  {"type": "tag", "type_name": "span", "text_type": "text", "text": ".*随堂测试|第.*章作业|.*PPT.*|*"}, 10)
-            {"type": "tag", "type_name": "span", "text_type": "text", "text": ".*随堂测试|.*作业|.*PPT.*|.*完成度.*|.*搭建问题"}, 10)
+            {"type": "tag", "type_name": "span", "text_type": "text", "text": ".*发送.*|.*随堂测试|.*作业|.*PPT.*|.*完成度.*|.*搭建问题"}, 10)
         if task_title:
             #  print("任务标题: ", task_title.text)
             return task_title.text
@@ -93,8 +94,8 @@ class GdufeMooc:
         :return: str
         '''
         #  "span", ".*PPT.*|.*随堂测试.*|.*作业.*|.*完成度.*"
-        if re.match(".*PPT.*|.*随堂测试.*|.*作业.*|.*完成度.*|.*搭建问题", task_title):
-            if re.match(".*完成度.*", task_title):
+        if re.match(".*PPT.*|.*随堂测试.*|.*作业.*|.*完成度.*|.*搭建问题|.*发送.*", task_title):
+            if re.match(".*完成度.*|.*发送.*", task_title):
                 return "视频"
             elif re.match(".*随堂测试.*|.*作业|.*搭建问题", task_title):
                 return "作业"
@@ -134,12 +135,15 @@ class GdufeMooc:
         """
         try:
             video_time = (self.browser_lib.browser.execute_script(script_code))
+            print(video_time)
             if len(video_time) == 2:
-                self.video_time_remain_list.append(
-                    int(video_time[1] - video_time[0]))
+                if video_time[1]:
+                    self.video_time_remain_list.append(
+                        int(video_time[1] - video_time[0]))
             else:
                 self.video_time_remain_list.append(self.watch_time)
         except:
+            print("获取视频剩余时间出错")
             traceback.print_exc()
             self.video_time_remain_list.append(self.watch_time)
 
@@ -188,8 +192,9 @@ class GdufeMooc:
                     self.submit_answer()
                 time.sleep(1)
                 self.browser_lib.browser.refresh()
-                time.sleep(3)
+                time.sleep(1)
             except:
+                print("回答问题出错")
                 traceback.print_exc()
         return True
 
@@ -370,14 +375,18 @@ class BrowserLib:
                             #  self.dl(element_text)
                             element_list.append(element)
                     except:
-                        traceback.print_exc()
+                        print("元素属性获取出错")
+                        if self.debug_mode:
+                            traceback.print_exc()
                 if time.time() > end_time:
                     break
                 if len(element_list) != 0:
                     break
             return element_list
         except:
-            traceback.print_exc()
+            print("获取元素出错:", error)
+            if self.debug_mode:
+                traceback.print_exc()
 
     def get_element(self, selector={"type": "tag", "type_name": "div", "text_type": "text", "text": ""}, _timeout=3):
         ''' 获取单个元素
@@ -423,12 +432,16 @@ class BrowserLib:
                             self.dl(element_text)
                             return element
                     except Exception as error:
-                        traceback.print_exc()
+                        print("元素属性获取出错")
+                        if self.debug_mode:
+                            traceback.print_exc()
                 if time.time() > end_time:
                     break
             return None
         except Exception as error:
             print("获取元素出错:", error)
+            if self.debug_mode:
+                traceback.print_exc()
 
     def wait_text(self, _tag, _text, _timeout=10):
         """ 等待tag里的某个文本出现 """
@@ -533,7 +546,7 @@ def main_process():
     i = 0
     # 流程开始
     gdufe_mooc.into_main_page()
-    gdufe_mooc.login("src/chang.json")
+    gdufe_mooc.login("src/zhekai.json")
     while i < len(course_list):
         gdufe_mooc.into_course(course_list[i])
         current_window = browser_lib.current_window_handle()
