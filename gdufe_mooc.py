@@ -537,6 +537,9 @@ def main_process():
     course_list = [
         'https://gdufe.xuetangonline.com/pro/lms/8V4QCnLgeYZ/1423505/studycontent',
         'https://gdufe.xuetangonline.com/pro/lms/8V4QCnN2xSJ/1423519/studycontent',
+        #  'https://gdufe.xuetangonline.com/pro/lms/8V4QCnKDFzb/1423463/studycontent',
+        #  'https://gdufe.xuetangonline.com/pro/lms/8V4QCnKfAYb/1423495/studycontent',
+        #  'https://gdufe.xuetangonline.com/pro/lms/8V4QCnKDFzb/1423463/studycontent',
     ]
     current_window = None  # 记录当前窗口
     task_count = 1
